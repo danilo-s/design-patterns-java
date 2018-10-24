@@ -1,0 +1,1 @@
+-decouple interfaces from implementations, so that the two can vary independently
