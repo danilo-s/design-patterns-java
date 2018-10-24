@@ -1,0 +1,2 @@
+-lets client to treat individual objects and composition of objects uniformly
+-use it when you want to represent part-whole hierarchies of object

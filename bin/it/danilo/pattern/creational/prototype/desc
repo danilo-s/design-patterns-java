@@ -1,0 +1,2 @@
+-used when the creation of an object is costly in terms of resources and time
+-use it when the classes to instantiate are specified at run time

@@ -1,0 +1,4 @@
+-separate the construction of a complex object from its representation, 
+so that same construction process can create different representations
+-use this when the algorithm for creating a complex object should be independent of the parts
+that make up the object

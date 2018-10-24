@@ -1,0 +1,4 @@
+-give the responsibility of creation to one class
+-when we have multiple sub classes and based on input we need to return one of them
+-provides approach to code for interface
+-abstraction and low coupling

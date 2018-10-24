@@ -1,0 +1,2 @@
+-control access to another object
+-client does not know about the proxy that acts as the original object

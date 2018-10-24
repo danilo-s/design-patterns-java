@@ -1,0 +1,2 @@
+-there should be only one instance allowed for a class
+-we should allow global point of access to that single instance

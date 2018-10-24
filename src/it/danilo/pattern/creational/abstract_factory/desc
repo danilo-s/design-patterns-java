@@ -1,0 +1,4 @@
+-we get rid of switch/if-else block and have a factory class for each sub-class, and then 
+abstract factory returns the sub-class
+-returns factories instead of objects. can be easily extended.
+-avoids conditional logic in factories
